@@ -1,3 +1,7 @@
+/* Write a C++ program using the concept of object-oriented programming to make a
+calculator which can calculate summation, subtraction, multiplication and division of two
+numbers. */
+
 #include <iostream>
 using namespace std;
 

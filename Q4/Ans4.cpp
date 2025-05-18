@@ -1,3 +1,5 @@
+/* Write a C++ program using the concept of OOP to distinguish all the even and odd
+numbers from 1 to 100. */
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,6 @@
+/* Write a C++ program using the concept of object-oriented programming to check
+whether given number is prime or not. */
+
 #include <iostream>
 using namespace std;
 

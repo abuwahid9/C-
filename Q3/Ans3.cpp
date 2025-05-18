@@ -1,3 +1,4 @@
+/* Write an OOP in C++ language to calculate the factorial of a number. */
 #include <iostream>
 using namespace std;
 

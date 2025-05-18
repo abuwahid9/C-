@@ -1,3 +1,6 @@
+/* Write a C++ program using the concept of object-oriented programming to find out the
+maximum and minimum from three numbers. */
+
 #include <iostream>
 using namespace std;
 

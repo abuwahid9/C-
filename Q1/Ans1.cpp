@@ -1,3 +1,6 @@
+/* Write a C++ program using the concept of object-oriented programming to find out the
+average of two numbers. */
+
 #include <iostream>
 using namespace std;
 
